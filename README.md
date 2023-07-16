@@ -4,7 +4,7 @@
 
 <center> <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-GPXX0AIAEN/Transformers_models.png" width="60%" alt="iris image"> <center>
 
-<h2>Applications of Hugging Face Transformers</h2>
+<h3>Applications of Hugging Face Transformers</h3>
 
 <h2>Objectives</h2>
 
@@ -28,6 +28,8 @@
 <h2>Transformer Model Architecture</p>
   
 <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-GPXX0AIAEN/The-Transformer-model-architecture.png" width="50%" alt="iris image"> 
+
+<p>The diagram above describes the pipeline between the input, output and positional encoding. For more information on Transformer Architecture visit this <a href = "https://en.wikipedia.org/wiki/Transformer_\(machine_learning_model\" alt="">wikipedia</a> page.</p>
 
 <h2>How to use Hugging Face Transformers</h2>
 
