@@ -29,8 +29,6 @@
   
 <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-GPXX0AIAEN/The-Transformer-model-architecture.png" width="50%" alt="iris image"> 
 
-<p>The diagram above describes the pipeline between the input, output and positional encoding. For more information on Transformer Architecture visit this <a href = "https://en.wikipedia.org/wiki/Transformer_\(machine_learning_model\" alt="">wikipedia</a> page.</p>
-
 <h2>How to use Hugging Face Transformers</h2>
 
 <p>There is very easy way to apply Hugging Face Transformers, it is to use the pipeline() function. The pipeline makes it simple to use any model from the Hugging Face Hub for inference on any language, computer vision, speech, or multimodal tasks. Each task has an associated pipeline. However, it is simpler to use the general pipeline abstraction, which contains all the task-specific pipelines. The pipeline() automatically loads a default model and a pre-processing class capable of inference for any of your desired tasks. Hugging Face community contains more information about the models and data they were trained on. This <a href = "https://huggingface.co/models?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkGuidedProjectsIBMGPXX0AIAEN102-2022-01-01" alt = "">Hugging Face Page</a> contains ALL the models created by this community.</p>
