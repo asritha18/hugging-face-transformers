@@ -25,7 +25,8 @@
 <h2>What do Transformer Models do?</h2>
 
 <p>Transformer Models have many useful applications in today world. They are widely used in near real-time translation tasks, opening communication spaces to language-diverse and hearing-impaired audiences. These models are advancing medical research by helping scientists to understand the DNA and amino acid sequences to speed up the development and improve the quality of treatments for different diseases. The models can detect anomalies to prevent fraud detection, streamline manufacturing, make recommendations and overall improve our day-to-day quality of life.</h3>
-<h2>Transformer Model Architecture</p>
+
+<h2>Transformer Model Architecture</h2>
   
 <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-GPXX0AIAEN/The-Transformer-model-architecture.png" width="50%" alt="iris image"> 
 
